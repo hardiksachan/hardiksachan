@@ -48,4 +48,9 @@ object Hardik: IDeveloper {
 </a>
 <a href="https://instagram.com/hardik__sachan" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+</a> 
+
+---
+
+<img width="48%" align="left" src="https://github-readme-stats.vercel.app/api?username=hardiksachan&show_icons=true&theme=dracula&locale=en" alt="hardiksachan" />
+<!-- img width="48%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hardiksachan&theme=dark" alt="hardiksachan" / -->
