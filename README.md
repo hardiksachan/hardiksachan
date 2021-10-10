@@ -53,4 +53,6 @@ object Hardik: IDeveloper {
 ---
 
 <img width="48%" align="left" src="https://github-readme-stats.vercel.app/api?username=hardiksachan&show_icons=true&theme=dracula&locale=en" alt="hardiksachan" />
+<img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardiksachan&layout=compact&theme=dracula&locale=en" alt="hardiksachan" />
+
 <!-- img width="48%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hardiksachan&theme=dark" alt="hardiksachan" / -->
