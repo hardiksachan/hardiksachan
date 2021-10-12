@@ -7,7 +7,4 @@
 ---
 
 ![](https://github-readme-stats.vercel.app/api?username=hardiksachan&show_icons=true&theme=city_lights&locale=en)
-<br />
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hardiksachan&theme=city_lights&locale=en)
-
-<!-- img width="48%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hardiksachan&theme=dark" alt="hardiksachan" / -->
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=hardiksachan&theme=dark) -->
