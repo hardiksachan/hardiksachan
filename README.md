@@ -5,6 +5,8 @@
 <a href="https://www.linkedin.com/in/hardik-sachan/">![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 ---
+### Checkout my [blog](https://hardiksachan.hashnode.dev/)
+---
 
 ![](https://github-readme-stats.vercel.app/api?username=hardiksachan&show_icons=true&theme=city_lights&locale=en)
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=hardiksachan&theme=dark) -->
