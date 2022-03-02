@@ -8,8 +8,10 @@
 ### Checkout my [blog](https://hardiksachan.hashnode.dev/)
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=hardiksachan&show_icons=true&theme=city_lights&locale=en)
+![](https://github-readme-stats.vercel.app/api?username=hardiksachan&show_icons=true&theme=tokyonight&locale=en)
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hardiksachan&layout=compact&theme=city_lights&locale=en )
-![](https://github-readme-streak-stats.herokuapp.com/?user=hardiksachan&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hardiksachan&layout=compact&theme=tokyonight&locale=en )
+
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=hardiksachan&theme=dark&theme=tokyonight)
