@@ -4,8 +4,3 @@
 <a href="https://www.instagram.com/hardik__sachan/">![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>&nbsp;
 <a href="https://www.linkedin.com/in/hardik-sachan/">![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
----
-### Checkout my [blog](https://hardiksachan.hashnode.dev/)
----
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=hardiksachan&theme=dark&theme=tokyonight)
